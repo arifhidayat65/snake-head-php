@@ -36,7 +36,7 @@ Formula Of Game (Define formula of game as math for moving and detection of pion
 
 ## Classes
 
-Everything on this class using namespace `NagaBonar` for initialize.
+Everything on this class using namespace `DragonFruit` for initialize.
 
 ## Defining Variable
 Default Configuration
@@ -101,10 +101,9 @@ In this list i'm use variable to set all configuration with define :
 
 ## Contribution and Feedback
 If you have any question for contribution, feedback and anything just contact me at my social media account.
-- [Google Plus](https://plus.google.com/u/0/114560304957303980796)
-- [Facebook](https://www.facebook.com/muhibbudinXboedass)
-- [Github](https://github.com/muhibbudins/)
-- [Linked In](https://www.linkedin.com/in/muhibbudins)
+- [Facebook](https://www.facebook.com/ariefhidayat)
+- [Github](https://github.com/arifhidayat65/)
+- [Linked In](https://www.linkedin.com/in/arifhidayat65)
 
 ## License
 
